@@ -22,19 +22,19 @@ We found it simple and yet informative and straightforward. The bar chart isn’
 We would also want these features in our project. In the Pronto’s trip data of 2015 we are using, there are lots of information regarding each individual trip, rider, weather, and etc. that we can utilize in our interactive plot. Here are some initial ideas we sketched in Tableau:
 These three plots below are focusing on the rider aspects, i.e. rider’s age group, gender and membership type, for which we used color-encoding for distinguishing different categories.
 
-![ByAge](byAge.PNG)
+![ByAge](byAge.png)
 
-![ByGender](byGender.PNG)
+![ByGender](byGender.png)
 
-![ByUser](byUser.PNG)
+![ByUser](byUser.png)
 
 We can also look at how weather affect Pronto bike ridership:
 
-![ByWeather](byWeather.PNG)
+![ByWeather](byWeather.png)
 
 Another approach might be using geo-encoding to see the difference in popularity among different bike stations (this is the sum of all the bike counts available):
 
-![ByStation](byStation.PNG)
+![ByStation](byStation.png)
 
 Our initial plan looked very similar to the Fremont one, whereas our map was linked to the bar chart and we have more features that could be displayed:
 
