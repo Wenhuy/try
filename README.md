@@ -4,4 +4,4 @@
 
 ###ahjkdbsadbka
 
-![Fremont Image](fremontEx.png)
+![Fremont Image](fremontEx.PNG)
