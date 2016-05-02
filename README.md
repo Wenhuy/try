@@ -19,7 +19,9 @@ Since May is the Bike Month of Seattle, we’d like to explore bike ridership th
 ![FremontEx](fremontEx.PNG)
 
 We found it simple and yet informative and straightforward. The bar chart isn’t linked with the map below it. The interactive part is that you can slide the little grey box on the line chart to specify the period time you are interested in and the bar chart will zoom in and out as you wish. Also by putting your mouse on a bar, a text box will appear to show you the actual numbers on that specific date. 
+
 We would also want these features in our project. In the Pronto’s trip data of 2015 we are using, there are lots of information regarding each individual trip, rider, weather, and etc. that we can utilize in our interactive plot. Here are some initial ideas we sketched in Tableau:
+
 These three plots below are focusing on the rider aspects, i.e. rider’s age group, gender and membership type, for which we used color-encoding for distinguishing different categories.
 
 ![ByAge](byAge.png)
@@ -48,7 +50,7 @@ And when sliding the little boxes to the middle, the bar chart would zoom in to 
 
 ### Changes between Storyboard and the Final Implementation
 
-But because of the time constrain, we decided to do a simplified version of this interactive visualization.
+Because of the time constrain, we decided to do a simplified version of this interactive visualization.
 We don't have the display options in the upper right corner and no interactive map.
 Instead, we have two bar chart. The main bar chart is to show the total number of trips by date. The complementary chart is to show the duration of the trip.
 
